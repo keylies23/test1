@@ -13,7 +13,8 @@ class MyButton extends StatelessWidget {
         child: Center(
           child: Text(
             btnName,
-            style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white),
+            style: TextStyle(
+                fontWeight: FontWeight.bold, color: Colors.white, fontSize: 16),
           ),
         ),
         decoration: BoxDecoration(
