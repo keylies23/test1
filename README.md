@@ -1,6 +1,6 @@
 # test1
 
-A new Flutter project.
+Latihan mobile development menggunakan flutter
 
 ## Getting Started
 
